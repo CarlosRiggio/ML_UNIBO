@@ -1,0 +1,9 @@
+1. Get data
+2. Explore and visualize data. (EDA)
+3. Prepare data for ML algorithms
+    3.1 Treatment of missing values
+    3.2 Feature Engineering: separe numeric data from non numeric data
+    3.3 Normalize data
+4. Choose a model and train
+5. Adjust the model
+6. Presentation of the solution
