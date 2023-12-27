@@ -7,3 +7,17 @@
 4. Choose a model and train
 5. Adjust the model
 6. Presentation of the solution
+
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+
+1- Get data.
+2- Analize data and see processing we have to do.
+3- Divide into data and goal
+4- Divide into training and test
+5- Process the info in the way we need and then introduce all that on a PipeLine.
+    5.1- Numeric --> deal with empty spaces, and normalize values.
+    5.2- Non numeric --> convert them on numerical ones.
+6- Validade some ML models by coputing media and variance
+7- ML model selected adjust parameters in order to get best result.
