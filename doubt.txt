@@ -1,0 +1,4 @@
+1.Graph Kernel.
+2. EDA before or after trarment of data.
+3. See result of 3 models and optimization of hiper parameters of the one with best result ¿VALID?
+4. Level of explanation on the documentation.
