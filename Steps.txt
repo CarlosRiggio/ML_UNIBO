@@ -27,12 +27,12 @@
 --------------------------------------------------------------------------
 
 Cosas a añadir:
-1. organización del conjunto de datos: creación de la estructura y las etiquetas
-2. punto medio de cada característica: meid, mediana y moda
-3. dispersión de cada característica: desviación típica y rango
-4. visualización de cada característica: histogramas y gráfico de distribución [hacible]
+1. organización del conjunto de datos: creación de la estructura y las etiquetas **
+2. punto medio de cada característica: meid, mediana y moda **
+3. dispersión de cada característica: desviación típica y rango **
+4. visualización de cada característica: histogramas y gráfico de distribución [hacible]**
 5. tabla dinámica y mapa de calor
 6. análisis de valores atípicos: diagrama de dispersión y/o diagrama de cajas
-7. relaciones entre características: correlación y matriz de dispersión
-8. visualización de datos multidimensionales: gráfico paralelo o curva de Andrews
+7. relaciones entre características: correlación y matriz de dispersión **
+8. visualización de datos multidimensionales: gráfico paralelo o curva de Andrews **
 
