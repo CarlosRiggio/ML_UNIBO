@@ -36,3 +36,8 @@ Cosas a añadir:
 7. relaciones entre características: correlación y matriz de dispersión **
 8. visualización de datos multidimensionales: gráfico paralelo o curva de Andrews **
 
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+Cuando haces el SimpleImputer: calculas la mediana de cada columna, asi que el valor varia en funcion a la columna.
+    La linea imputer.statistics_ : almacena las medianas de las columnas.
+
