@@ -1,0 +1,14 @@
+NOTAS ML
+-Not scaling in linear regression (2)
+-Use label enconding --> value label scoding --> mean price of cateogory y le das el peso. (1)
+-Calculate the error by means of R-squared to validate all the models.(3)
+-TRY TO REMOVE NULL VALUES.(4)
+
+==========================
+Steps:
+1.1- Mean price en funcion del ocean proximity y asi poder darles pesos.
+1.2- Aplicar el Label enconding y luego aplicarlo a la pipeline.
+2.1- Crear una pipeline que no escale las cosas y usar ese dataset en el linear regression.
+2.1- De una crear el dataset ahi y hacer que el linear_regression use solo eso.
+3. -->INVESTIGAR ESO.
+4.Crear un apartado en el que los pipelines no hagan la de rellenar valores nulos.
