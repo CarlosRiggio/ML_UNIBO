@@ -40,4 +40,4 @@ Cosas a añadir:
 --------------------------------------------------------------------------
 Cuando haces el SimpleImputer: calculas la mediana de cada columna, asi que el valor varia en funcion a la columna.
     La linea imputer.statistics_ : almacena las medianas de las columnas.
-
+En el OneHotEncoder --> nos devuelve una matrizque luego transformamos a DF
