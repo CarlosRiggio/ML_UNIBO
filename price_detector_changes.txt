@@ -6,8 +6,8 @@ NOTAS ML
 
 ==========================
 Steps:
-1.1- Mean price en funcion del ocean proximity y asi poder darles pesos.
-1.2- Aplicar el Label enconding y luego aplicarlo a la pipeline.
+1.1- Mean price en funcion del ocean proximity y asi poder darles pesos.  BIEN
+1.2- Aplicar el Label enconding y luego aplicarlo a la pipeline. BIEN
 2.1- Crear una pipeline que no escale las cosas y usar ese dataset en el linear regression.
 2.1- De una crear el dataset ahi y hacer que el linear_regression use solo eso.
 3. -->INVESTIGAR ESO.
