@@ -14,4 +14,4 @@ Steps:
 4.Crear un apartado en el que los pipelines no hagan la de rellenar valores nulos.
 
 
-&_PRUEBA PULL GITHUB
+&_PRUEBA PULL GITHUB--> CAMBIO
