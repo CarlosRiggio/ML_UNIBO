@@ -12,3 +12,6 @@ Steps:
 2.1- De una crear el dataset ahi y hacer que el linear_regression use solo eso.
 3. -->INVESTIGAR ESO.
 4.Crear un apartado en el que los pipelines no hagan la de rellenar valores nulos.
+
+
+&_PRUEBA PULL GITHUB
